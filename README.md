@@ -1,6 +1,6 @@
 # Hi there, I'm Tariq! 👋
 
-I'm a passionate **Data Scientist** and **Bioinformatics Specialist** based in Toronto 🇨🇦.  
+I'm a passionate **Data Scientist** and **Bioinformatics Specialist** based in Toronto, Canada.  
 I combine my background in healthcare, molecular biology, and AI to solve real-world challenges through data-driven solutions.
 
 - 🔬 Background in Molecular Biology and Health Informatics
